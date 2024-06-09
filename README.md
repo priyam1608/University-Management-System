@@ -1,6 +1,6 @@
 # Java University Management System GUI Project
 
-![Software Demo](Project+images/starting.png)
+![Software Demo](project+images/starting.png)
 ![Screenshot 1](Images/LoginPage.png)
 ![Screenshot 2](Images/AfterLoginPage.png)
 

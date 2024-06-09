@@ -1,17 +1,17 @@
-# Java Employee Management System GUI Project
+# Java University Management System GUI Project
 
-![Software Demo](Images/EntryPoint.png)
+![Software Demo](Project+images/starting.png)
 ![Screenshot 1](Images/LoginPage.png)
 ![Screenshot 2](Images/AfterLoginPage.png)
 
 ## Overview
-This Java project is a feature-rich Employee Management System with a Graphical User Interface (GUI). It offers an intuitive interface for performing All HR operations Basically.
+This Java project is a feature-rich University Management System with a Graphical User Interface (GUI). It offers an intuitive interface for performing All HR operations Basically.
 
 ## Features
 - **User-Friendly:** It Provides an easy to understand user friendly interface . So that a fresher can also easy to use this software.
 - **Printing Functionality:** It provides a facility to generate a output of the list of all employees in the form of PDF or through printer.
 - **User Authentication and Authorization:** Secure login functionality with role-based access control to ensure data privacy and confidentiality.
-- **Employee Information Management:** Store and manage detailed employee profiles, including personal details, contact information, Department and more.
+- **University Information Management:** Store and manage detailed employee profiles, including personal details, contact information, Department and more.
 
 ## Technology Used:-
 - **Java Swing GUI**

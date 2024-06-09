@@ -34,5 +34,8 @@ This Java project is a feature-rich University Management System with a Graphica
 ## Contributing
 Contributions are welcome! If you have any ideas for improvement or find any bugs, feel free to open an issue or submit a pull request.
 
+## Licence
+- This project is licensed under the [MIT License](LICENSE).
+
 ## Acknowledgments
 - Special thanks to some youtube channels like codewithharry, telusko, codingWallah ,etc for the inspiration and guidance.

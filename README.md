@@ -19,10 +19,10 @@ This Java project is a feature-rich University Management System with a Graphica
 - **MySql** (for database)
   
 ## Screenshots
-![Screenshot 3](Images/ITdepartment.png)
-![Screenshot 4](Images/FinanceDepartment.png)
-![Screenshot 5](Images/ProductionDepartment.png)
-![Screenshot 6](Images/SalesDepartment.png)
+![Screenshot 3](images/new+teacher.png)
+![Screenshot 4](images/FinanceDepartment.png)
+![Screenshot 5](images/ProductionDepartment.png)
+![Screenshot 6](images/SalesDepartment.png)
 
 ## Getting Started
 1. **Prerequisites:** Ensure you have Java installed on your system.

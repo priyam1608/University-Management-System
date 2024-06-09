@@ -1,8 +1,8 @@
 # Java University Management System GUI Project
 
 ![Software Demo](images/starting.png)
-![Screenshot 1](Images/LoginPage.png)
-![Screenshot 2](Images/AfterLoginPage.png)
+![Screenshot 1](images/Login.png)
+![Screenshot 2](images/home.png)
 
 ## Overview
 This Java project is a feature-rich University Management System with a Graphical User Interface (GUI). It offers an intuitive interface for performing All HR operations Basically.
